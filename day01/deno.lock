@@ -9,7 +9,19 @@
     "https://deno.land/std@0.115.1/encoding/csv_stringify.ts": "f9fe4889f1b2987c8640b4695d2d8836a978d034708ca90a850d3ec6b800d9ba",
     "https://deno.land/std@0.115.1/io/buffer.ts": "a587093277c889ded709a933cd7d5b6285978275b2015a7cf9c8a3caad464236",
     "https://deno.land/std@0.115.1/io/readers.ts": "17403919724fef2f343c88555606368868a5c752a1099ad801f6a381c170f62d",
-    "https://deno.land/std@0.115.1/textproto/mod.ts": "0549e31eacbb354b3b37951d0d24098b2cd0caaf9a6a3a67a0255d7728141522"
+    "https://deno.land/std@0.115.1/textproto/mod.ts": "0549e31eacbb354b3b37951d0d24098b2cd0caaf9a6a3a67a0255d7728141522",
+    "https://deno.land/std@0.207.0/assert/assert.ts": "9a97dad6d98c238938e7540736b826440ad8c1c1e54430ca4c4e623e585607ee",
+    "https://deno.land/std@0.207.0/assert/assertion_error.ts": "4d0bde9b374dfbcbe8ac23f54f567b77024fb67dbb1906a852d67fe050d42f56",
+    "https://deno.land/std@0.207.0/bytes/concat.ts": "d3d420badeb4f26a0f2f3ce343725f937326aff1b4634b25341b12b27353aac4",
+    "https://deno.land/std@0.207.0/csv/_io.ts": "5bfe70bfaae7bf642f0f178cbcd6fbd8105bb63ee3a487ee866009c2b13befc5",
+    "https://deno.land/std@0.207.0/csv/csv_parse_stream.ts": "122840c0f83907c01cfc7d1f07ed6a5dc4e0efc9840d5acfb7bcf93b6040be3f",
+    "https://deno.land/std@0.207.0/csv/csv_stringify_stream.ts": "d2bbec9bbdbf9dacab4b9f7e35d9c2b4f6b0f839d1291755702ae5f60ba3f71e",
+    "https://deno.land/std@0.207.0/csv/mod.ts": "7559bf52e32848a55fb0522419167fae9b43b5a23a37d71c858dacb682726ee9",
+    "https://deno.land/std@0.207.0/csv/parse.ts": "fe075f0e2be313fe278d287925e490c04e3cd88456d262deee0431cb04beaf9e",
+    "https://deno.land/std@0.207.0/csv/stringify.ts": "f61627b78c1eb970e9af3b16e080a96f521021685878dad5c94d0c108fd3fdc3",
+    "https://deno.land/std@0.207.0/streams/_common.ts": "3b2c1f0287ce2ad51fff4091a7d0f48375c85b0ec341468e76d5ac13bb0014dd",
+    "https://deno.land/std@0.207.0/streams/delimiter_stream.ts": "af7aab15d830636265c998ca330576edb6a50959fec1949d2fa57ef8dda299d2",
+    "https://deno.land/std@0.207.0/streams/text_delimiter_stream.ts": "f0dc8ff953a8a77f0d1fa8db1fee62de817f36e20d79b00b1362847e30fbdd90"
   },
   "workspace": {
     "dependencies": [
